@@ -98,14 +98,3 @@ While my primary focus is frontend development, I'm also familiar with the follo
 - **Node.js & Express.js:** Creating server-side applications and RESTful APIs.
 - **MongoDB & Mongoose:** Handling data with MongoDB and using Mongoose as an ODM.
   
-## Design Magic
-
-I'm passionate about creating engaging and visually appealing user interfaces:
-
-- **Figma:** Transforming ideas into wireframes, prototypes, and visually stunning designs.
-
-## Let's Create Together
-
-I'm always excited to connect with fellow developers, designers, and tech enthusiasts. Whether you want to discuss a frontend project idea, collaborate on a cool initiative, or just chat about web development, feel free to reach out. Let's create something amazing together!
-
-Thanks for visiting my GitHub profile. Cheers to the endless possibilities of the web! 🚀
