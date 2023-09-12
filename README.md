@@ -1,5 +1,7 @@
 # Hi there, I'm Shaad Imran 👋
 
+I'm a passionate **Frontend Web Developer** with a knack for crafting beautiful and responsive web experiences. While my primary focus is frontend development, I also have a solid grasp of backend technologies. Here's a glimpse into my world of technologies:
+
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -66,9 +68,6 @@
   </a>
 </div>
 
-
-With this code, each badge is wrapped in an anchor tag (`<a>`) with the official URL of the respective technology as the `href` attribute. When clicked, each badge will open the official site of that technology in a new tab.
-I'm a passionate **Frontend Web Developer** with a knack for crafting beautiful and responsive web experiences. While my primary focus is frontend development, I also have a solid grasp of backend technologies. Here's a glimpse into my world of technologies:
 
 - 🔭 **Currently Crafting:** Building dynamic and user-friendly web applications with React and Next.js.
 - 🌱 **Always Learning:** Exploring the latest trends in frontend development and design.
