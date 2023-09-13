@@ -71,7 +71,6 @@ I'm a passionate **Frontend Web Developer** with a knack for crafting beautiful 
 
 - 🔭 **Currently Crafting:** Building dynamic and user-friendly web applications with React and Next.js.
 - 🌱 **Always Learning:** Exploring the latest trends in frontend development and design.
-- 👯 **Open to Collaboration:** Excited about collaborating on innovative frontend projects.
 - 💬 **Ask Me About:** Frontend development, UI/UX design, and web application architecture.
 - 📫 **How to Reach Me:** imranmansuri038@gmail.com or [LinkedIn](https://www.linkedin.com/in/shaad-imran-6220a325b/).
 
